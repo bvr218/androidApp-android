@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">fututel</string>
+    <string name="botonconfig">configuracion</string>
+    <string name="botoningresar">ingresar</string>
+    <string name="botonsalir">salir</string>
+    <string name="textuser">user: </string>
+    <string name="textpass">password: </string>
+    <string name="user">user12</string>
+    <string name="pass">*********</string>
+    <string name="title">iniciar sesion</string>
+    <string name="switch1">cambiar</string>
+    <string name="botonasignar">asignar</string>
+    <string name="botoninstalar">instalar</string>
+    <string name="botonborrar">borrar</string>
+    <string name="textconexion">cambiar contraseña</string>
+    <string name="hint">¿Cuanto esperas que sea el pago?</string>
+    <string name="generar">generar informe de este mes</string>
+    <string name="textUrl">contraseña actual:</string>
+    <string name="textbase">contraseña nueva:</string>
+    <string name="textpuerto">confirmar contraseña:</string>
+    <string name="textusuario">usuario:</string>
+    <string name="textcontraseña">contraseña:</string>
+    <string name="botonaceptar">aceptar</string>
+    <string name="botoncancelar">cancelar</string>
+    <string name="botonvermisagendas">mis agendas</string>
+    <string name="botonveragendas">ver agendas disponibles</string>
+    <string name="botonmisinstalaciones">ver mis trabajos</string>
+    <string name="verpor">buscar en: </string>
+    <string name="solohoy">solo creadas hoy</string>
+    <string name="zonas">zonas: </string>
+    <string name="ordenarpor">ordenar por: </string>
+    <string name="vereninstalaciones">instalaciones</string>
+    <string name="comentarios">datos de ejecucion y comentarios</string>
+    <string name="confirmarinstalacion">confirmar ejecucion</string>
+    <string name="hintcomentarios">escriba aqui sn y mac del router,
+        tipo y cantidad de material gastado gastado
+        y/o cualquier otro tipo de datos relevantes </string>
+</resources>
